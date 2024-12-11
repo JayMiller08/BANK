@@ -77,8 +77,3 @@ This is a simple command-line based multi-account banking system implemented in 
 
 - **MultiAccountBankingSystem.java**: Contains the main method, menu, and handles user input for various operations.
 - **BankAccount.java**: Represents a bank account, including fields for last name, initials, account number, PIN, balance, birth date, and transaction history. Contains methods for depositing, withdrawing, and viewing transactions.
-
-## Example
-
-Here is an example of how the system might be used:
-
